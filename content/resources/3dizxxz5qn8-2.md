@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/7513a13350685708aa93114ce2fc0155_3DizXXZ5qN8.vtt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 7513a133-5068-5708-aa93-114ce2fc0155
+---
